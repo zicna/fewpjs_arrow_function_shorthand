@@ -42,8 +42,8 @@ let foo = function() {
 ```
 
 The `function() {...}` to the right of the assignment operator (`=`) is called
-a _function expression_. The best way to understand what a function expression
-is by analogy.
+a _function expression_. The best way to understand a function expression is 
+by analogy.
 
 ```js
 let sum = 1 + 1
